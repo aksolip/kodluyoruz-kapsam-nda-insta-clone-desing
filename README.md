@@ -33,3 +33,6 @@ Bütün sayfanın arkaplan rengini Instagram'dan alıp uygulayın"
 
 
 Burada öğretilmek istenen verilen task list doğrultusunda bir projeye devam edebilmek olduğunu düşünüyorum ve gelişimim için çok güzel bir çalışma oldu teşekkürler
+
+
+Bu çalışmada takıldığım noktalarda çalışmasından kopya çektiğim ceren uzuncankoc'a tanısamda teşekkür ederim. 
