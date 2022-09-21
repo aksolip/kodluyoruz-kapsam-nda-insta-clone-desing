@@ -35,4 +35,4 @@ Bütün sayfanın arkaplan rengini Instagram'dan alıp uygulayın"
 Burada öğretilmek istenen verilen task list doğrultusunda bir projeye devam edebilmek olduğunu düşünüyorum ve gelişimim için çok güzel bir çalışma oldu teşekkürler
 
 
-Bu çalışmada takıldığım noktalarda çalışmasından kopya çektiğim ceren uzuncankoc'a tanısamda teşekkür ederim. 
+Bu çalışmada takıldığım noktalarda çalışmasından kopya çektiğim Ceren uzuncankoc'a tanısamda teşekkür ederim. Ayrıca çalışma Cengiz Mataracı'ya ait olduğu için sadece burada taslak üzerinde yapılması istenilen değişiklikleri sağladım. Tamamen bir instagram clone olarak lütfen ele almayınız.
